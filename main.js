@@ -202,6 +202,10 @@ const quotes = [
     {
         name: '"The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense."',
         author: 'Thomas A. Edison'
+    },
+    {
+        name: '"It does not matter how slowly you go as long as you do not stop."',
+        author: 'Confucius'
     }
 ]
 const contentBox = document.getElementsByClassName('content-box')
